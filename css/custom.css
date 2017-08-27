@@ -703,9 +703,9 @@ header .navbar-default .navbar-nav > li > a{font-size:1.8em;}
 .banner-slider .slider-content a{font-size:2em;}
 .left-trading .title-heading{font-size:3.8em;}
 .left-trading strong{font-size:2em;}
-.right-trading strong{font-size:5em;}
+.right-trading strong{font-size:4em;}
 .news-section .title-heading{font-size:4em;}
-.right-news ul li p{font-size:1.5em; line-height:1em;}
+.right-news ul li p{font-size:1.1em; line-height:1.5em;}
 .servicequality-section .service-content p{font-size:3em;}
 .footer-listing ul li a{font-size:2em;}
 .footer-bottom p{font-size:2em;}
@@ -1541,7 +1541,8 @@ header .logo img {
 
 
 /*services-page css*/
-.service-banner .data-img-bg{background-size:cover !important; min-height:804px; position:relative;}
+/*.service-banner .data-img-bg{background-size:cover !important; min-height:804px; position:relative;}*/
+.service-banner .data-img-bg{background-size:cover !important; min-height:700px; position:relative;}
 .banner_content{padding:0 0 0 7.14%; position:absolute; left:0; bottom:170px; max-width:42%;}
 .service-banner h1{color:#ffffff; font-size:65px; margin:0;}
 .service-banner p{font-size:25px; color:#fff; font-family:'Montserrat Light'; margin:0;}
